@@ -1,0 +1,119 @@
+{
+    "rice": [
+      {
+        "id": 1,
+        "nama": "Rice Cooker Philips",
+        "harga": 2668035,
+        "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/9/8/4a2554ab-4b84-46af-9427-203dbe144d04.jpg",
+        "stok": 15
+      },
+      {
+        "id": 2,
+        "nama": "Rice Cooker Bolde",
+        "harga": 720000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2020/8/2/751432/751432_63f3c4e6-5a88-413d-87b4-43cd67a57ac5_1069_1069.jpg",
+        "stok": 15
+      },
+      {
+        "id": 3,
+        "nama": "Rice Cooker Yong Ma",
+        "harga": 3397500,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2019/11/28/22931274/22931274_556c982d-30da-47b8-9500-ab15616e4b7f_700_700",
+        "stok": 15
+      },
+      {
+        "id": 4,
+        "nama": "Rice Cooker Cosmos",
+        "harga": 3250000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2019/10/19/3818493/3818493_2710a323-87c9-4520-bc8a-66cada9727e7_1000_1000",
+        "stok": 15
+      },
+      {
+        "id": 5,
+        "nama": "Rice Cooker Panasonic",
+        "harga": 1558900,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2017/4/19/14964852/14964852_704d5eb9-7153-4052-a821-e70bfdb2f7db_600_600.jpg",
+        "stok": 15
+      },
+      {
+        "id": 6,
+        "nama": "Rice Cooker Mito",
+        "harga": 823320,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2017/4/30/2391426/2391426_47cf7639-2223-422a-b20f-23a60a479be4_2000_2000.jpg",
+        "stok": 15
+      },
+      {
+        "id": 7,
+        "nama": "Rice Cooker Miyako",
+        "harga": 1149000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/1/3/cc76cb6b-1df7-42c0-8bbd-d7392a8bb430.jpg",
+        "stok": 15
+      },
+      {
+        "id": 8,
+        "nama": "Rice Cooker Oxone",
+        "harga": 2220000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2017/9/1/0/0_b0fc12a4-a69e-41fa-9729-da926d25d3d9_700_700.jpg",
+        "stok": 15
+      },
+      {
+        "id": 9,
+        "nama": "Rice Cooker Maspion",
+        "harga": 2350000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2019/2/9/348147/348147_5a1a8fde-5365-4600-9fb6-715aa2097d95_700_700.jpg",
+        "stok": 15
+      },
+      {
+        "id": 10,
+        "nama": "Rice Cooker Sharp",
+        "harga": 555000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/9/17/52d25fdb-e552-404b-91ef-e328c30a81e0.jpg",
+        "stok": 15
+      },
+      {
+        "id": 11,
+        "nama": "Rice Cooker Denpoo",
+        "harga": 516000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2020/5/1/batch-upload/batch-upload_645ea640-807f-4bd6-b044-725f9bdc9bfc.jpg",
+        "stok": 15
+      },
+      {
+        "id": 12,
+        "nama": "Rice Cooker Xiaomi",
+        "harga": 2690000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2019/9/8/2467337/2467337_3057bf5b-e7bf-479e-ae4b-a232fc23cf3d_546_546.jpg",
+        "stok": 15
+      },
+      {
+        "id": 13,
+        "nama": "Rice Cooker Black Decker",
+        "harga": 973000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2019/2/8/17251434/17251434_033dec4b-8a7d-432f-a5d8-ed066733de59_360_360.png",
+        "stok": 15
+      },
+      {
+        "id": 14,
+        "nama": "Rice Cooker Electrolux",
+        "harga": 1200000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2020/11/27/9ba733c4-bb3e-48b0-8f0e-75ad3fde6e3c.jpg",
+        "stok": 15
+      },
+      {
+        "id": 15,
+        "nama": "Rice Cooker Kris",
+        "harga": 1200000,
+        "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/10/12/e2556c7b-da60-4b92-b91f-e6e2a620dafb.jpg",
+        "stok": 15
+      }
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+    }
+
+
+
+
+
+

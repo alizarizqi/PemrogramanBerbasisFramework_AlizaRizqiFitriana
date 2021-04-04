@@ -1,0 +1,52 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Rice Cooker Philips",
+      "harga": 2668035,
+      "qty": 4
+    },
+    {
+      "id": 2,
+      "nama": "Rice Cooker Bolde",
+      "harga": 720000,
+      "stok": 15,
+      "qty": 7
+    },
+    {
+      "id": 3,
+      "nama": "Rice Cooker Yong Ma",
+      "harga": 3397500,
+      "stok": 15,
+      "qty": 1
+    },
+    {
+      "id": 5,
+      "nama": "Rice Cooker Panasonic",
+      "gambar": "https://images.tokopedia.net/img/cache/900/product-1/2017/4/19/14964852/14964852_704d5eb9-7153-4052-a821-e70bfdb2f7db_600_600.jpg",
+      "harga": 1558900,
+      "stok": 15,
+      "qty": 2
+    },
+    {
+      "id": 15,
+      "nama": "Rice Cooker Kris",
+      "gambar": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/10/12/e2556c7b-da60-4b92-b91f-e6e2a620dafb.jpg",
+      "harga": 1200000,
+      "stok": 15,
+      "qty": 2
+    },
+    {
+      "id": 14,
+      "nama": "Rice Cooker Electrolux",
+      "gambar": "https://images.tokopedia.net/img/cache/900/hDjmkQ/2020/11/27/9ba733c4-bb3e-48b0-8f0e-75ad3fde6e3c.jpg",
+      "harga": 1200000,
+      "stok": 15,
+      "qty": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

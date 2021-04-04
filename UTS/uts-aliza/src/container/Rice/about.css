@@ -1,0 +1,52 @@
+.jumbotron1{
+  height: 80vh;
+}
+.jumbotron1 h1{
+  font-style: italic;
+  margin-top: 40px;
+  font-size: 18px;
+  margin-left: 25px; 
+} 
+.jumbotron1 p{
+  margin-top: 70px;
+  font-weight: 400; 
+  margin-left: 20px;
+  font-size: 20px;
+}
+.jumbotron1 h3{
+    margin-top: 10px;
+    font-weight: 500; 
+    margin-left: 20px;
+    font-size: 25px;
+  }
+.jumbotron1 h2{
+  margin-top: 10px;
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 49px;
+  color: #FFD700;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.icon1{
+  font-size: 100px;
+  margin-left: 20px;
+}
+.jumbotron1{
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.biodata{
+margin-left: 950px;
+margin-top: -200px;
+font-size: 25px;
+}
+.jumbotron1 h4{
+margin-left: 1120px;
+margin-top: 240px;
+font-size: 20px;
+color: #FFD700;
+}
+.tambahan{
+  background-color: #ecc100;
+}
