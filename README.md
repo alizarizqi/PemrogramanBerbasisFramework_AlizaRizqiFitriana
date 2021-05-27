@@ -17,4 +17,5 @@
 * Modul 9 : https://youtu.be/w0gSqE1AeAk
 * Modul 10 : https://youtu.be/gclCPmdjYOA 
 * Modul 11 : https://youtu.be/6X7oJGSLSzs
-* Modul 12 : https://youtu.be/6X7oJGSLSzs
+* Modul 12 : https://youtu.be/ZS5w8nzSbX8
+* Modul 13 : https://youtu.be/lMRLRZOBdAE
